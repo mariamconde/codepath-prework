@@ -6,7 +6,7 @@ Submitted by: **Mariam Conde**
 
 Time spent: **9** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/muddy-thankful-record?path=README.md%3A1%3A0)
+Link to project: (https://mesquite-emerald-number.glitch.me)
 
 ## Required Functionality
 
