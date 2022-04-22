@@ -39,11 +39,21 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
+Winning the game:
+
 ![](https://i.imgur.com/WFotR6G.gif)
+
+Using the stop/start game button:
 
 ![](https://i.imgur.com/cqmE4S8.gif)
 
+
+Using a random secret pattern each game (2 different games below):
+
 ![](https://i.imgur.com/jsluXmx.gif)
+
+Losing the game:
 
 ![](https://i.imgur.com/lgMK4vL.gif)
 
